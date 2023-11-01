@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=F7ED6A&center=true&vCenter=true&width=435&lines=Mohamed+Abu+El-Nour;Technical+Lead+)](https://git.io/typing-svg)
-##### <div align="center">🔭 I’m currently working on the 
-</div>  
-  
+
 
 <div align="center">
 <img src="http://tac.tacverse.com/static/media/tac-universe-logo.335627b4.svg" align="center" height="" width="" />
