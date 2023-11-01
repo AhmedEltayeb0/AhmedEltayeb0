@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ahmed El-tayeb,BackEnd Developer </div>  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=500&size=24&pause=1000&color=E9F700&random=false&width=437&lines=Ahmed+El-Tayeb;BackEnd+Web+Developer)](https://git.io/typing-svg)
   
 
 - 🔭 I’m currently working on Tac Universe  
@@ -16,9 +16,9 @@
   
 
 - ⚡ Fun fact: I use tabs over spaces
-- <br/>  
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=500&size=24&pause=1000&color=E9F700&random=false&width=437&lines=Ahmed+El-Tayeb;BackEnd+Web+Developer)](https://git.io/typing-svg)
+
+
   
 <div align="center">
 <img src="http://tac.tacverse.com/static/media/tac-universe-logo.335627b4.svg" align="center" height="" width="" />
