@@ -15,7 +15,14 @@
 - ❓ Ask me about anything related to Web stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+- <br/>  
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans&weight=500&size=24&pause=1000&color=E9F700&random=false&width=437&lines=Ahmed+El-Tayeb;BackEnd+Web+Developer)](https://git.io/typing-svg)
+  
+<div align="center">
+<img src="http://tac.tacverse.com/static/media/tac-universe-logo.335627b4.svg" align="center" height="" width="" />
+</div>  
   
 
 <br/>  
@@ -74,10 +81,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/AhmedEltayeb0" target="_blank">
+<a href="https://github.com/AhmedEltayeb0" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ahmed-el-tayeb-70841b91" target="_blank">
+<a href="https://linkedin.com/in/ahmed-el-tayeb-70841b91" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
